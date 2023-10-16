@@ -1,7 +1,7 @@
 {
-  "name": "@ampt-templates/typescript-empty",
+  "name": "@ampt-templates/typescript-starter",
   "version": "1.0.0",
-  "description": "Ampt Empty TypeScript template",
+  "description": "Ampt TypeScript template",
   "private": true,
   "main": "index.ts",
   "type": "module",
@@ -9,6 +9,6 @@
     "start": "ampt"
   },
   "ampt": {
-    "app": "typescript-empty"
+    "app": "typescript-starter"
   }
 }
