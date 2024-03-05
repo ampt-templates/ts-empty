@@ -6,9 +6,11 @@
   "main": "index.ts",
   "type": "module",
   "scripts": {
-    "start": "ampt"
+    "start": "ampt",
+    "gitpod:ampt": "./node_modules/.bin/ampt"
   },
   "ampt": {
-    "app": "typescript-starter"
+    "app": "",
+    "org": ""
   }
 }
